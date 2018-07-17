@@ -8,8 +8,8 @@ Your goal is to earn <b>20 points</b>. You earn these points by completing your 
 As you complete your programs, you will also keep a daily Programming Journal (also attached to this assignment). You will use this to keep track of your progress and reflect on how things are going. This will also factor into your grade for this assignment.
 
 ## How To Earn Points
-Each <b>Starter</b> program is worth <b>2 points</b>. There are Five Starter programs to choose from.
-Each <b>Standard</b> program is worth <b>5 points</b>. There are Two Standard programs to choose from.
+Each <b>Starter</b> program is worth <b>2 points</b>. There are Five Starter programs to choose from.<br />
+Each <b>Standard</b> program is worth <b>5 points</b>. There are Two Standard programs to choose from.<br />
 Each <b>Challenge</b> program is worth <b>10 points</b>. There are Three Challenge programs to choose from.
 
 You have your choice of which programs to complete, but you must earn at least 20 points total. This gives you several options. Here are a few examples (but there are many others):
