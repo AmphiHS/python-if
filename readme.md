@@ -22,4 +22,4 @@ You can earn up to 5 points in Extra Credit if you end up going “over” the 2
 ## Getting Your Programs Checked
 To get your programs checked, put up your <b>Green Stoplight</b> and Schneider will come over to check your program. We’ll run the program at your computer and check a few test-cases to make sure everything works correctly. If so, Schneider will check it off on a clipboard he has and you can move onto the next program. You can get multiple programs checked at the same time if you want to wait and get several checked at once.
 
-While you’re waiting to get programs checked, you can start working on the next program you plan to complete. 
+While you’re waiting to get programs checked, you can start working on the next program you plan to complete.
